@@ -18,7 +18,6 @@
 ░ ░    ░   ▒   ░ ░ ░ ░ ░ ▒ ▒ ░░     ░  ░  ░   ░  ░░ ░ ▒ ░  ░      ░  ░  ░  
     ░  ░     ░  ░  ░ ░     ░ ░              ░   ░  ░  ░ ░                 ░  
                 ░         ░ ░   
-
 A basic NMap TUI launcher with human readable questions for common scan variables.
 
 Roadmap features:
