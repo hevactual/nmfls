@@ -17,9 +17,26 @@
         ░ ░ ▒  ░ ▒   ▒▒ ░░░▒ ▒ ░ ▒ ▓██ ░▒░    ░ ░▒  ░ ░ ▒ ░▒░ ░ ▒ ░    ░    ░ ░▒  ░ ░
         ░ ░    ░   ▒   ░ ░ ░ ░ ░ ▒ ▒ ░░     ░  ░  ░   ░  ░░ ░ ▒ ░  ░      ░  ░  ░  
             ░  ░     ░  ░  ░ ░     ░ ░              ░   ░  ░  ░ ░                 ░  
-                        ░         ░ ░   
-A basic NMap TUI launcher with human readable questions for common scan variables.
+                        ░         ░ ░          
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Roadmap features:
--Add a full TUI menu allowing for more scan options without having to ask in linear questions
--log file functionality
+NMFLS is a basic NMap TUI launcher written in Python with human readable questions for common scan variables.
+
+## Roadmap 
+### Features: 
+-Add a full TUI menu allowing for more scan options without having to ask in linear questions 
+
+-Log file functionality
+
+## Dependancies
+
+Ptyhon 3.0 or newer [https://www.python.org/downloads/](https://www.python.org/downloads/)
+NMap: [https://github.com/nmap/nmap](https://github.com/nmap/nmap)
+
+
+## License
+
+[GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+## Credits
+ASCII Art: [https://textkool.com/en/ascii-art-generator](https://textkool.com/en/ascii-art-generator)
