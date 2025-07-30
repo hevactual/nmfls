@@ -23,7 +23,10 @@
 NMFLS is a basic NMap TUI launcher written in Python with human readable questions for common scan variables.
 
 ## Features
-[screenshot](https://github.com/hevactual/nmfls/blob/main/nmfls_screenshot.png)
+
+
+<img width="758" height="812" alt="nmfls_screenshot" src="https://github.com/user-attachments/assets/910f168b-5f23-447c-8689-36842ae4db78" />
+
 
 ## Roadmap 
 -Add a full TUI menu allowing for more scan options without having to ask in linear questions 
