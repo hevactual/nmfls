@@ -24,6 +24,17 @@ NMFLS is a basic NMap TUI launcher written in Python with human readable questio
 
 ## Features
 
+Launch and NMap scan with the following options:
+
+-A  - Aggressive Scan
+
+-sS - Stealth Scan
+
+-sV - Software version detection
+
+-O  - Operating system detection
+
+-sU - Scan UDP ports
 
 <img width="758" height="812" alt="nmfls_screenshot" src="https://github.com/user-attachments/assets/910f168b-5f23-447c-8689-36842ae4db78" />
 
