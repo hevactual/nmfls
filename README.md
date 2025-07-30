@@ -20,3 +20,7 @@
                         ░         ░ ░   
 
 A basic NMap TUI launcher with human readable questions for common scan variables.
+
+Roadmap features:
+-Add a full TUI menu allowing for more scan options without having to ask in linear questions
+-log file functionality
